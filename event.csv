@@ -1,0 +1,6 @@
+title,link,location,reminder_time,reminder_date,status,done,category
+breakfast,no,qasr,08:00:00,1400-02-15,4,False,food
+exam,www.skyroom.ir,skyroom,12:30:00,1400-02-15,1,False,university
+yoga,no,gym,09:08:00,1400-02-15,3,True,train
+clean my room,no,home,12:00:00,1400-02-14,2,False,home
+network setting,no,safashahr,17:09:00,1400-02-15,1,False,office
