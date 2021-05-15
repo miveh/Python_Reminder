@@ -1,0 +1,4 @@
+from,to,title,link,location,reminder_time,reminder_date,status,done,category,sharing_status
+zahra,sara,dinner,no,qasr,22:00:00,1400-03-02,1,True,food,waiting
+sara,zahra,shopping,no,shopping center,10:00:00,1400-03-03,3,False,shopping,reject
+zahra,zaza,gym,no,gym,19:00:00,1400-03-01,1,False,train,accept
